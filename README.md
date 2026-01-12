@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Trần Tấn Hải</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student @ <strong>HCMUT</strong> <br>
+  🎓 Computer Engineering Student at <strong>HCMUT</strong> <br>
   💻 RTL Design & Computer Architecture & Embedded Systems Enthusiast <br>
   🚀 Passionate about Digital Logic Design, RISC-V Architecture & Firmware Development.
 </p>
